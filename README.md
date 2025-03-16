@@ -43,6 +43,4 @@ The dataset includes historical sales transactions, customer data, and product d
 ## Contributing
 If you'd like to contribute or improve this project, feel free to fork the repository and submit a pull request.
 
-## Contact
-For any queries or collaboration, reach out to me at [your email] or connect with me on LinkedIn: [Your LinkedIn Profile].
 
